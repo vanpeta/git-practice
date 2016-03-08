@@ -1,1 +1,3 @@
 code inside src.txt
+
+correct code added
