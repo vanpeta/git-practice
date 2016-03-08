@@ -1,1 +1,4 @@
 code inside file.txt
+
+mistake
+another mistake
